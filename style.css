@@ -2,6 +2,9 @@
     padding: 0px;
     margin: 0px;
 }
+nav{
+    position: fixed;
+}
 
 .sect{
     background-color: rgb(42, 177, 177);
@@ -98,7 +101,7 @@
     margin-top: -400px;
 }
 .rect6{
-    background-color: rgb(9, 253, 25);
+    background-color: rgb(72, 205, 81);
     width: 195px;
     height: 40px;
     border-radius: 20px;
@@ -109,4 +112,76 @@
     margin-left: 510px;
     margin-top: -40px;
     color: white;
+}
+.rect7{
+    background-color: rgb(22, 1, 247);
+    width: 210px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.contact{
+    margin-top: -40px;
+    margin-left: 47px;
+    color: white;
+
+}
+.form1{
+    margin-top: 30px;
+}
+.form2{
+    margin-top: 15px;
+}
+.form3{
+    margin-top: 15px;
+}
+.form4{
+    margin-top: 15px;
+}
+.section_form{
+    margin-left: 47px;
+}
+button{
+    margin-top: 15px;
+    margin-left: 47px;
+    background-color: rgb(22, 1, 247);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    width: 100px;
+}
+.derim{
+    width: 500px;
+    height: 350px;
+    margin-left: 300px;
+    margin-top: -150px;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+}
+.imlogo{
+    margin-top: -470px;
+    width: 150px;
+    height: 90px;
+}
+.gauche{
+    margin-top: -130px;
+    color: white;
+}
+.pub{
+    margin-top: -220px;
+    margin-left: 850px;
+    color: white;
+}
+.p1{
+    margin-top: 15px;
+}
+.facebook{
+    width: 40px;
+    height: 30px;
+    margin-left: 520px;
+    margin-top: -30px;
 }
